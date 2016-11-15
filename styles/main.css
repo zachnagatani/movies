@@ -22,8 +22,6 @@ body {
 }
 .movie-tile:hover {
     background-color: #EEE;
-}
-.poster:hover {
     cursor: pointer;
 }
 .scale-media {
